@@ -1,0 +1,20 @@
+<org.yccheok.jstock.gui.SellPortfolioTreeTableModel>
+  <root class="org.yccheok.jstock.portfolio.Portfolio">
+    <children/>
+    <allowsChildren>true</allowsChildren>
+    <comment></comment>
+  </root>
+  <modelSupport>
+    <listeners serialization="custom">
+      <javax.swing.event.EventListenerList>
+        <default/>
+        <null/>
+      </javax.swing.event.EventListenerList>
+    </listeners>
+    <treeModel class="org.yccheok.jstock.gui.SellPortfolioTreeTableModel" reference="../.."/>
+  </modelSupport>
+  <columnIdentifiers>
+    <null/>
+  </columnIdentifiers>
+  <useAutoCalculatedIdentifiers>true</useAutoCalculatedIdentifiers>
+</org.yccheok.jstock.gui.SellPortfolioTreeTableModel>

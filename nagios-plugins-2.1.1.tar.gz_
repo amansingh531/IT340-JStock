@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Page not found | Nagios Plugins</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://nagios-plugins.org/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://nagios-plugins.org/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Nagios Plugins &raquo; Feed" href="https://nagios-plugins.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Nagios Plugins &raquo; Comments Feed" href="https://nagios-plugins.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/nagios-plugins.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.4"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='crayon-css'  href='http://nagios-plugins.org/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://nagios-plugins.org/wp-content/themes/twentytwelve/style.css?ver=4.5.4' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://nagios-plugins.org/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v5.5.2 - Universal enabled - https://www.monsterinsights.com/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-2887186-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='http://nagios-plugins.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://nagios-plugins.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"https:\/\/nagios-plugins.org\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://nagios-plugins.org/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script>
+<link rel='https://api.w.org/' href='https://nagios-plugins.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nagios-plugins.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nagios-plugins.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.4" />
+<link rel="stylesheet" type="text/css" href="http://nagios-plugins.org/wp-content/plugins/wp-recaptcha/recaptcha.css" /><script type="text/javascript">
+//<![CDATA[
+	var screen_res = ""; 
+	function writeCookie(name,value,hours) {
+		var the_cookie = name+"="+escape(value)+"; expires=";
+		var expires = "";
+		hours=hours+0; //convert to number
+		if (hours > 0) { //0==expires on browser close
+			var cdate = new Date();
+			cdate.setTime(cdate.getTime()+(hours*60*60*1000));
+			expires = expires+cdate.toGMTString();
+		} 
+		document.cookie = the_cookie+expires+"; path=/; domain=";
+	}
+	screen_res = screen.width+" x "+screen.height;
+	if (screen_res==" x ") screen_res = window.screen.width+" x "+window.screen.height;
+	if (screen_res==" x ") screen_res = screen.availWidth+" x "+screen.availHeight;
+	if (screen_res!=" x ") { 
+		writeCookie("wassup_screen_res",screen_res,"48"); //keep 2 days
+	} else {
+		screen_res = "";
+	}
+//]]>
+</script>
+</head>
+
+<body class="error404 custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="https://nagios-plugins.org/" title="Nagios Plugins" rel="home">Nagios Plugins</a></h1>
+			<h2 class="site-description">The home of the official Nagios® Plugins</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li ><a href="https://nagios-plugins.org/">Home</a></li><li class="page_item page-item-12"><a href="https://nagios-plugins.org/downloads/">Downloads</a></li><li class="page_item page-item-5"><a href="https://nagios-plugins.org/support/">Support</a></li><li class="page_item page-item-53"><a href="https://nagios-plugins.org/documentation/">Documentation</a></li><li class="page_item page-item-7"><a href="https://nagios-plugins.org/development/">Development</a></li><li class="page_item page-item-10"><a href="https://nagios-plugins.org/team/">Team</a></li><li class="page_item page-item-59"><a href="https://nagios-plugins.org/faq/">FAQ</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+
+			<article id="post-0" class="post error404 no-results not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">This is somewhat embarrassing, isn&rsquo;t it?</h1>
+				</header>
+
+				<div class="entry-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
+					<form role="search" method="get" id="searchform" class="searchform" action="https://nagios-plugins.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	</div><!-- #main .wrapper -->
+	<footer id="colophon" role="contentinfo">
+		<div class="site-info">
+    Copyright &copy 1999-2016 Nagios Plugin Development Team.  Website operated by <a href="http://www.nagios.com/">Nagios Enterprises, LLC</a>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+<!--[if IE]>
+<script language=javascript>
+//<![CDATA[
+	if (screen_res=="") {
+		screen_res = screen.width + " x " + screen.height;
+	}
+	if (screen_res!=" x ") {
+		var cdate = new Date();
+		cdate.setTime(cdate.getTime()+(48*60*60*1000));
+		var cexpires = cdate.toGMTString();
+		//var the_cookie = "wassup_screen_res="+escape(screen_res)+"; expires="+cexpires;
+		document.cookie = "wassup_screen_res=" + escape(screen_res)+ "; path=/; domain=" + document.domain;
+
+	}
+//]]>
+</script>
+<![endif]--><!--
+<p class="small"> WassUp 1.8.3.1 timestamp: 2016-10-18 07:10:31PM UTC (07:10PM)<br />
+If above timestamp is not current time, this page is cached.</p> -->
+<script type='text/javascript' src='http://nagios-plugins.org/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+<script type='text/javascript' src='http://nagios-plugins.org/wp-includes/js/wp-embed.min.js?ver=4.5.4'></script>
+</body>
+</html>

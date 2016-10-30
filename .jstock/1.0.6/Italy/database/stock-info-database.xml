@@ -1,0 +1,3768 @@
+<org.yccheok.jstock.engine.StockInfoDatabase>
+  <stockInfos>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UCG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Unicredit SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ISPR.MI</code>
+      </code>
+      <symbol>
+        <symbol>INTESA SANPAOLO RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ARE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Arena S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BNS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Beni Stabili SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EEZ.MI</code>
+      </code>
+      <symbol>
+        <symbol>Eurofly SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ITH.MI</code>
+      </code>
+      <symbol>
+        <symbol>IT Holding SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TME.MI</code>
+      </code>
+      <symbol>
+        <symbol>Telecom Italia Media SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>VVE.MI</code>
+      </code>
+      <symbol>
+        <symbol>I Viaggi del Ventaglio SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ISP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Intesa Sanpaolo Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TIT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Telecom Italia Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SFL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Safilo Group SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TIS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Tiscali SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IRD.MI</code>
+      </code>
+      <symbol>
+        <symbol>Iride SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>F.MI</code>
+      </code>
+      <symbol>
+        <symbol>Fiat Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CHL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Centro HL Distribuzione SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Richard Ginori 1735 SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EVE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Vemer Siber Group SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>LR.MI</code>
+      </code>
+      <symbol>
+        <symbol>LANDI RENZO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EUT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Eutelia SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>REC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Recordati</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TEN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Tenaris SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CPR.MI</code>
+      </code>
+      <symbol>
+        <symbol>Davide Campari</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ENEL.MI</code>
+      </code>
+      <symbol>
+        <symbol>ENEL SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PIA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Piaggio &amp; C. SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IGD.MI</code>
+      </code>
+      <symbol>
+        <symbol>Immobiliare Grande Distribuzione SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SN.MI</code>
+      </code>
+      <symbol>
+        <symbol>SNIA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BRI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Brioschi Finanziara</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SRN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Sorin Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EXP.MI</code>
+      </code>
+      <symbol>
+        <symbol>EXOR S.p.A. PRV.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ENI.MI</code>
+      </code>
+      <symbol>
+        <symbol>ENI SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PRO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Profilo SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Pirelli Co</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IES.MI</code>
+      </code>
+      <symbol>
+        <symbol>Investimenti And Sviluppo</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SSI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Sadi Servizi Industriali SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AMP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Amplifon SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SNA.MI</code>
+      </code>
+      <symbol>
+        <symbol>SNAI SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SPF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Sopaf SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Risanamento Napoli</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BNG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Buongiorno SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TFI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Trevi Finanziaria Industriale</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IMS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Immsi Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MEC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Management &amp; Capitali</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MEL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Meliorbanca SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BMPS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Monte Dei Paschi</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ARN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Alerion</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Reno de Medici SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CMF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Camfin</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>COF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Cofide</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>STS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Ansaldo STS SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BAN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Basicnet</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DAN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Danieli</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BRE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Brembo SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AIC.MI</code>
+      </code>
+      <symbol>
+        <symbol>AICON</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DMT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Digital Multimedia Technologies Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>KME.MI</code>
+      </code>
+      <symbol>
+        <symbol>KME GROUP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TRV.MI</code>
+      </code>
+      <symbol>
+        <symbol>Trevisan</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DIS.MI</code>
+      </code>
+      <symbol>
+        <symbol>D&apos;AMICO INTL SHIPP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>LIT.MI</code>
+      </code>
+      <symbol>
+        <symbol>RETELIT</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ITK.MI</code>
+      </code>
+      <symbol>
+        <symbol>Intek SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ANM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Anima S.G.R.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ETH.MI</code>
+      </code>
+      <symbol>
+        <symbol>Eurotech SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ONT.MI</code>
+      </code>
+      <symbol>
+        <symbol>OMNIA NETWORK</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Aedes SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Montefibre SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AST.MI</code>
+      </code>
+      <symbol>
+        <symbol>Astaldi SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SSB.MI</code>
+      </code>
+      <symbol>
+        <symbol>SCREEN SERVICE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Interpump Group SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PLT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Parmalat S.P.A</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>KRE.MI</code>
+      </code>
+      <symbol>
+        <symbol>K.R.Energy S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EEMS.MI</code>
+      </code>
+      <symbol>
+        <symbol>EEMS Italia SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Premafin Finanziaria</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DIA.MI</code>
+      </code>
+      <symbol>
+        <symbol>DIASORIN</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UNL.MI</code>
+      </code>
+      <symbol>
+        <symbol>UNI LAND</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IPG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Impregilo SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Antichi Pellettieri SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CEM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Cementir Holding SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PRT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Esprinet SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>APP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Apulia Prontoprestito SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EGR.MI</code>
+      </code>
+      <symbol>
+        <symbol>ERG Renew S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AEF.MI</code>
+      </code>
+      <symbol>
+        <symbol>AEFFE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>COB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Cobra Automotive Technologies Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UNI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Unipol SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EN.MI</code>
+      </code>
+      <symbol>
+        <symbol>ENIA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ASR.MI</code>
+      </code>
+      <symbol>
+        <symbol>A S Roma</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ASC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Ascopiave S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>A2A.MI</code>
+      </code>
+      <symbol>
+        <symbol>A2A S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SCT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Socotherm SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BIA.MI</code>
+      </code>
+      <symbol>
+        <symbol>BIALETTI INDUSTRIE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>JUVE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Juventus Football Club SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PEL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Popolare Eturia Lazi</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SIS.MI</code>
+      </code>
+      <symbol>
+        <symbol>SIAS Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BPSO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Popolare Di Sondrio</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BFE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Finnat</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Beghelli SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>KRS.MI</code>
+      </code>
+      <symbol>
+        <symbol>KERSELF</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>XPR.MI</code>
+      </code>
+      <symbol>
+        <symbol>Exprivia S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BPE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Popolare dell&apos;Emilia Romagna</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CARR.MI</code>
+      </code>
+      <symbol>
+        <symbol>Carraro SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SAVE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Save Aeroporto di venezia</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ZV.MI</code>
+      </code>
+      <symbol>
+        <symbol>ZIGNAGO VETRO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BP.MI</code>
+      </code>
+      <symbol>
+        <symbol>BANCO POPOLARE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>B.MI</code>
+      </code>
+      <symbol>
+        <symbol>BASTOGI</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Sogefi SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PFG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Poltrona Frau SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ELC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Elica SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BIM.MI</code>
+      </code>
+      <symbol>
+        <symbol>BCA Intermobiliare</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MARR.MI</code>
+      </code>
+      <symbol>
+        <symbol>Marr Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CLE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Class Editori SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MHE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mondo Home Entertainment S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CED.MI</code>
+      </code>
+      <symbol>
+        <symbol>Caltagirone Editore SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>STEF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Stefanel SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BSS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Biesse SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BGN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Generali SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ACT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Actelios SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UCGR.MI</code>
+      </code>
+      <symbol>
+        <symbol>UNICREDIT RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TRN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Terna</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>YSE.MI</code>
+      </code>
+      <symbol>
+        <symbol>S.E.I.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>HER.MI</code>
+      </code>
+      <symbol>
+        <symbol>Hera</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IGV.MI</code>
+      </code>
+      <symbol>
+        <symbol>I Grandi Viaggi SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>G.MI</code>
+      </code>
+      <symbol>
+        <symbol>Assicurazioni Generali SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mediaset SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PQ.MI</code>
+      </code>
+      <symbol>
+        <symbol>PIQUADRO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SOL.MI</code>
+      </code>
+      <symbol>
+        <symbol>SOL SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SSL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Lazio</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SPM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Saipem SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Ciccolella SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FNC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Finmeccanica SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CAI.MI</code>
+      </code>
+      <symbol>
+        <symbol>CAIRO COMMUNICATION</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FNM.MI</code>
+      </code>
+      <symbol>
+        <symbol>FNM SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SRG.MI</code>
+      </code>
+      <symbol>
+        <symbol>SNAM Rete Gas SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TIP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Tamburi Investment Partners S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>COG.MI</code>
+      </code>
+      <symbol>
+        <symbol>COGEME SET</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>OLI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Olidata SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MBFG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mariella Burani</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RAT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Ratti SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CRA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Credito Artigiano SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CIR.MI</code>
+      </code>
+      <symbol>
+        <symbol>CIR</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EDN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Edison Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ECA.MI</code>
+      </code>
+      <symbol>
+        <symbol>ERGYCAPITAL</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GEM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Gemina</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GCN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Gruppo Coin SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>YRC.MI</code>
+      </code>
+      <symbol>
+        <symbol>RAFFAELE CARUSO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DLG.MI</code>
+      </code>
+      <symbol>
+        <symbol>De Longhi SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MCL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Marcolin SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CNP.MI</code>
+      </code>
+      <symbol>
+        <symbol>CONAFI PRESTITO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ES.MI</code>
+      </code>
+      <symbol>
+        <symbol>Gruppo Editoriale L&apos;Espresso SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DMN.MI</code>
+      </code>
+      <symbol>
+        <symbol>DAMIANI</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IF.MI</code>
+      </code>
+      <symbol>
+        <symbol>IFIS</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DAS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Data Service SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CRE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Crespi</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FDA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Fidia SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ACP.MI</code>
+      </code>
+      <symbol>
+        <symbol>ACQUE POTABILI</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>NGB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Negri Bossi SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BY.MI</code>
+      </code>
+      <symbol>
+        <symbol>Yorkville bhn SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BIL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Italease Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RCS.MI</code>
+      </code>
+      <symbol>
+        <symbol>RCS Media Group</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MIT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mittel SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FCD.MI</code>
+      </code>
+      <symbol>
+        <symbol>Finarte Casa Di Aste</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IMA.MI</code>
+      </code>
+      <symbol>
+        <symbol>IMA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Alleanza</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>POL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Poligrafici Editoriale SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CSP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Csp Intl Industria</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CL.MI</code>
+      </code>
+      <symbol>
+        <symbol>CAPE LIVE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>S24.MI</code>
+      </code>
+      <symbol>
+        <symbol>IL SOLE 24 ORE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BUL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Bulgari SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BDB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banco di Desio e della Brianza SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PMI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Popolare Milano</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MT.MI</code>
+      </code>
+      <symbol>
+        <symbol>MAIRE TECNIMONT</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MLM.MI</code>
+      </code>
+      <symbol>
+        <symbol>MOLMED</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ATL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Atlantia SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>NICE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Nice SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MON.MI</code>
+      </code>
+      <symbol>
+        <symbol>Monrif SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PG.MI</code>
+      </code>
+      <symbol>
+        <symbol>SEAT PAGINE GIALLE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ISG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Isagro SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ACS.MI</code>
+      </code>
+      <symbol>
+        <symbol>ACSM-AGAM S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UBI.MI</code>
+      </code>
+      <symbol>
+        <symbol>UBI Banca</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SG.MI</code>
+      </code>
+      <symbol>
+        <symbol>SAES Getters SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PRY.MI</code>
+      </code>
+      <symbol>
+        <symbol>PRYSMIAN</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IFL.MI</code>
+      </code>
+      <symbol>
+        <symbol>IFIL Investments SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TF.MI</code>
+      </code>
+      <symbol>
+        <symbol>TOSCANA FINANZA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>KNX.MI</code>
+      </code>
+      <symbol>
+        <symbol>KINEXIA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>YCSM.MI</code>
+      </code>
+      <symbol>
+        <symbol>CSM SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Dada SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>YTP.MI</code>
+      </code>
+      <symbol>
+        <symbol>TESS PONTELAMBRO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ZUC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Vincenzo Zucchi</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IW.MI</code>
+      </code>
+      <symbol>
+        <symbol>IWBANK</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FDP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Filatura di Pollone SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SRS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Saras SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ROS.MI</code>
+      </code>
+      <symbol>
+        <symbol>ROSSS</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BLZ.MI</code>
+      </code>
+      <symbol>
+        <symbol>Bolzoni SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PINF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Pininfarina SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CALT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Caltagirone SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Fiera Milano SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MOL.MI</code>
+      </code>
+      <symbol>
+        <symbol>MUTUIONLINE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PMS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Permasteelisa SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>VAS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Vittoria Assicurazioni SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ITM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Italmobiliare SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AGL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Autogrill Finanziaria</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CMB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Cembre SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>LD.MI</code>
+      </code>
+      <symbol>
+        <symbol>La Doria SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RLT.MI</code>
+      </code>
+      <symbol>
+        <symbol>REALTY VAILOG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BCM.MI</code>
+      </code>
+      <symbol>
+        <symbol>BIANCAMANO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MSA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Monti Ascensori SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GRF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Granitifiandre SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AKM.MI</code>
+      </code>
+      <symbol>
+        <symbol>ARKIMEDICA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CIA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Compagnia Immobiliare Azionaria SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MEA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mediterranea delle Acque SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mediobanca SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MED.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mediolanum SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>LUX.MI</code>
+      </code>
+      <symbol>
+        <symbol>Luxottica</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BEC.MI</code>
+      </code>
+      <symbol>
+        <symbol>B&amp;C SPEAKERS</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RIC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Ricchetti</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AEG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Acegas</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PR.MI</code>
+      </code>
+      <symbol>
+        <symbol>Premuda SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RCF.MI</code>
+      </code>
+      <symbol>
+        <symbol>RCF GROUP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RDB.MI</code>
+      </code>
+      <symbol>
+        <symbol>RDB</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IFP.MI</code>
+      </code>
+      <symbol>
+        <symbol>EXOR S.p.A. PRV.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BEST.MI</code>
+      </code>
+      <symbol>
+        <symbol>BEST UNION COMPANY</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BIE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Bioera SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PRA.MI</code>
+      </code>
+      <symbol>
+        <symbol>PRAMAC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DAL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Datalogic SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>KMER.MI</code>
+      </code>
+      <symbol>
+        <symbol>KME GROUP RISP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IRC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Irce</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GEW.MI</code>
+      </code>
+      <symbol>
+        <symbol>Gewiss SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Borgosesia SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BEN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Benetton</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MCH.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mediacontech SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>VLA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Vianini Lavori SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PRS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Pirelli &amp; C Real Estate</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ELN.MI</code>
+      </code>
+      <symbol>
+        <symbol>El.En</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PRI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Prima Industrie SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FMR.MI</code>
+      </code>
+      <symbol>
+        <symbol>FMR-Art&apos;e&apos; SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DIB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Digital Bros SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>LAV.MI</code>
+      </code>
+      <symbol>
+        <symbol>Lavorwash SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ERG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Erg SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IESM.MI</code>
+      </code>
+      <symbol>
+        <symbol>INVEST SVILUPPO MED</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EGP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Ergo Previdenza Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Italcementi</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ITKRP.MI</code>
+      </code>
+      <symbol>
+        <symbol>INTEK RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CRG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Carige SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BTY.MI</code>
+      </code>
+      <symbol>
+        <symbol>BOUTY HEALTHCARE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CDC.MI</code>
+      </code>
+      <symbol>
+        <symbol>Cdc Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SAB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Sabaf SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IPI.MI</code>
+      </code>
+      <symbol>
+        <symbol>IPI</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CLT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Central Del Latte Di Torino</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Credito Emiliano</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Gefran SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PAN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Panariagroup Industrie Ceramiche SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Emak SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GEO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Geox Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SRI.MI</code>
+      </code>
+      <symbol>
+        <symbol>SERVIZI ITALIA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Assicurazioni Milano</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SAT.MI</code>
+      </code>
+      <symbol>
+        <symbol>SAT</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IND.MI</code>
+      </code>
+      <symbol>
+        <symbol>Indesit Company</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mondadori</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>REY.MI</code>
+      </code>
+      <symbol>
+        <symbol>Reply SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CLF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Caleffi Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MRT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mirato SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ITW.MI</code>
+      </code>
+      <symbol>
+        <symbol>IT Way SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>VIN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Vianini Industria SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GSP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Gas Plus SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BSRP.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banco di Sardegna SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TER.MI</code>
+      </code>
+      <symbol>
+        <symbol>TERNIENERGIA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CAD.MI</code>
+      </code>
+      <symbol>
+        <symbol>CAD IT SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MTV.MI</code>
+      </code>
+      <symbol>
+        <symbol>Mondo TV SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ENG.MI</code>
+      </code>
+      <symbol>
+        <symbol>Engineering Ingegneria Informati</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GAB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Gabetti Property Solutions SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FUL.MI</code>
+      </code>
+      <symbol>
+        <symbol>FullSix SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Credito Bergamasco SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BZU.MI</code>
+      </code>
+      <symbol>
+        <symbol>Buzzi Unicem SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RGI.MI</code>
+      </code>
+      <symbol>
+        <symbol>RGI</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AZM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Azimut Holding SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ACO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Acotel Group SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TXT.MI</code>
+      </code>
+      <symbol>
+        <symbol>TXT E Solutions SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PRL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Pierrel SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>LTO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Lottomatica SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FSA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Fondiaria (Sai Spa)</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>VLS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Valsoia S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>NOE.MI</code>
+      </code>
+      <symbol>
+        <symbol>NoemaLife SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PSF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Poligrafica San Faustino SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>YAI.MI</code>
+      </code>
+      <symbol>
+        <symbol>AREA IMPIANTI</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>VIS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Greenvision Ambiente S.p.A.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Bonifiche Ferraresi</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ENV.MI</code>
+      </code>
+      <symbol>
+        <symbol>ENERVIT</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CVAL.MI</code>
+      </code>
+      <symbol>
+        <symbol>Credito Valtellinese</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GMM.MI</code>
+      </code>
+      <symbol>
+        <symbol>GRUPPO MINERALI</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ACE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Acea SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FWB.MI</code>
+      </code>
+      <symbol>
+        <symbol>Fastweb SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AUTME.MI</code>
+      </code>
+      <symbol>
+        <symbol>Autostrade Meridionali</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DEA.MI</code>
+      </code>
+      <symbol>
+        <symbol>DEA Capital SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SPO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banca Popolare di Spoleto SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TOD.MI</code>
+      </code>
+      <symbol>
+        <symbol>Tod&apos;s SPA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AFI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Aeroporto di Firenze SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TAS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Tas (Tecno Avanza Sistemi)</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BOE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Boero Bartolomeo Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Autostrada Torino Milano SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MIC.MI</code>
+      </code>
+      <symbol>
+        <symbol>MIC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CASS.MI</code>
+      </code>
+      <symbol>
+        <symbol>Cattolica Assicurazioni</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>NR.MI</code>
+      </code>
+      <symbol>
+        <symbol>NOVA RE SpA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DMA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Dmail Group Spa</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TITR.MI</code>
+      </code>
+      <symbol>
+        <symbol>TELECOM ITALIA RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CTIC.MI</code>
+      </code>
+      <symbol>
+        <symbol>CELL THERAPEUTICS</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UNIP.MI</code>
+      </code>
+      <symbol>
+        <symbol>UNIPOL PRIV</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FORA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Fortis</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FP.MI</code>
+      </code>
+      <symbol>
+        <symbol>FIAT PRIV.</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FR.MI</code>
+      </code>
+      <symbol>
+        <symbol>FIAT RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PCP.MI</code>
+      </code>
+      <symbol>
+        <symbol>PIRELLI &amp; C.RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ANMOAC.MI</code>
+      </code>
+      <symbol>
+        <symbol>ANIMA OAC 20.05.09</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IFR.MI</code>
+      </code>
+      <symbol>
+        <symbol>IFIL RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ITR.MI</code>
+      </code>
+      <symbol>
+        <symbol>ITALCEMENTI RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BZUR.MI</code>
+      </code>
+      <symbol>
+        <symbol>BUZZI UNICEM RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FSAR.MI</code>
+      </code>
+      <symbol>
+        <symbol>FONDIARIA-SAI RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DANR.MI</code>
+      </code>
+      <symbol>
+        <symbol>DANIELI &amp; C. RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>STM.MI</code>
+      </code>
+      <symbol>
+        <symbol>Stmicroelectronics</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BNP.MI</code>
+      </code>
+      <symbol>
+        <symbol>BNP Paribas SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EXR.MI</code>
+      </code>
+      <symbol>
+        <symbol>IFI RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TMER.MI</code>
+      </code>
+      <symbol>
+        <symbol>TELECOM IT MEDI RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RCSR.MI</code>
+      </code>
+      <symbol>
+        <symbol>RCS MEDIAGROUP RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DBK.MI</code>
+      </code>
+      <symbol>
+        <symbol>Deutsche Bank AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AXA.MI</code>
+      </code>
+      <symbol>
+        <symbol>AXA SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GEMR.MI</code>
+      </code>
+      <symbol>
+        <symbol>GEMINA RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MFNC.MI</code>
+      </code>
+      <symbol>
+        <symbol>MONTEFIBRE RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MIR.MI</code>
+      </code>
+      <symbol>
+        <symbol>MILANO ASS. RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ALU.MI</code>
+      </code>
+      <symbol>
+        <symbol>Alcatel-Lucent</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>INGA.MI</code>
+      </code>
+      <symbol>
+        <symbol>ING Groep</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EDNR.MI</code>
+      </code>
+      <symbol>
+        <symbol>EDISON RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ALV.MI</code>
+      </code>
+      <symbol>
+        <symbol>Allianz SE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SGR.MI</code>
+      </code>
+      <symbol>
+        <symbol>SAES GETTERS RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ITMR.MI</code>
+      </code>
+      <symbol>
+        <symbol>ITALMOBILIARE RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AGN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Aegon</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DTE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Deutsche Telekom AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ACA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Credit Agricole</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>NOK1V.MI</code>
+      </code>
+      <symbol>
+        <symbol>Nokia Oyj</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PGR.MI</code>
+      </code>
+      <symbol>
+        <symbol>SEAT PAG GIALLE RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CRGR.MI</code>
+      </code>
+      <symbol>
+        <symbol>BANCA CARIGE RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SANT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Banco Santander SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GLE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Societe Generale</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RNO.MI</code>
+      </code>
+      <symbol>
+        <symbol>Renault SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BBVA.MI</code>
+      </code>
+      <symbol>
+        <symbol>BBVA (Banco Bilbao)</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EOAN.MI</code>
+      </code>
+      <symbol>
+        <symbol>E.ON N</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BAY.MI</code>
+      </code>
+      <symbol>
+        <symbol>Bayer AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BB.MI</code>
+      </code>
+      <symbol>
+        <symbol>BB BIOTECH N</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BMW.MI</code>
+      </code>
+      <symbol>
+        <symbol>BMW AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DAI.MI</code>
+      </code>
+      <symbol>
+        <symbol>Daimler AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BOR.MI</code>
+      </code>
+      <symbol>
+        <symbol>BORGOSESIA RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>FTE.MI</code>
+      </code>
+      <symbol>
+        <symbol>France Telecom</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BDBR.MI</code>
+      </code>
+      <symbol>
+        <symbol>BCO DESIO BR. RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>INDR.MI</code>
+      </code>
+      <symbol>
+        <symbol>INDESIT COMPANY RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TOT.MI</code>
+      </code>
+      <symbol>
+        <symbol>Total SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>TEF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Telefonica</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>BASF.MI</code>
+      </code>
+      <symbol>
+        <symbol>BASF SE</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SIE.MI</code>
+      </code>
+      <symbol>
+        <symbol>Siemens AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UNA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Unilever Nv</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SANF.MI</code>
+      </code>
+      <symbol>
+        <symbol>Sanofi-Aventis SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>DNN.MI</code>
+      </code>
+      <symbol>
+        <symbol>Danone</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>GSZ.MI</code>
+      </code>
+      <symbol>
+        <symbol>GDF Suez</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>CRR.MI</code>
+      </code>
+      <symbol>
+        <symbol>Carrefour SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>ZUCR.MI</code>
+      </code>
+      <symbol>
+        <symbol>ZUCCHI RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>IPGR.MI</code>
+      </code>
+      <symbol>
+        <symbol>IMPREGILO RSP</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SAP.MI</code>
+      </code>
+      <symbol>
+        <symbol>SAP AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PHIA.MI</code>
+      </code>
+      <symbol>
+        <symbol>Philips</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>PP.MI</code>
+      </code>
+      <symbol>
+        <symbol>PPR SA</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MUV2.MI</code>
+      </code>
+      <symbol>
+        <symbol>Muenchener Rueck</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>RWE.MI</code>
+      </code>
+      <symbol>
+        <symbol>RWE AG</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>VIV.MI</code>
+      </code>
+      <symbol>
+        <symbol>Vivendi</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>LVMH.MI</code>
+      </code>
+      <symbol>
+        <symbol>LVMH</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>STEFR.MI</code>
+      </code>
+      <symbol>
+        <symbol>STEFANEL RNC</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>OR.MI</code>
+      </code>
+      <symbol>
+        <symbol>Oreal (L&apos;)</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>AH.MI</code>
+      </code>
+      <symbol>
+        <symbol>AHOLD</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>EXO.MI</code>
+      </code>
+      <symbol>
+        <symbol>IFI SPA TORINO</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>SPMR.MI</code>
+      </code>
+      <symbol>
+        <symbol>SAIPEM RCV</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>UCGAXA.MI</code>
+      </code>
+      <symbol>
+        <symbol>UNICREDIT DIR.02.09</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>COGOB.MI</code>
+      </code>
+      <symbol>
+        <symbol>COGEME DIR X OBCV</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>MCHAXA.MI</code>
+      </code>
+      <symbol>
+        <symbol>MEDIACONTECH DIR</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+    <org.yccheok.jstock.engine.StockInfo>
+      <code>
+        <code>COGAXA.MI</code>
+      </code>
+      <symbol>
+        <symbol>COGEME DIR</symbol>
+      </symbol>
+    </org.yccheok.jstock.engine.StockInfo>
+  </stockInfos>
+  <industryToStockInfos class="enum-map" enum-type="org.yccheok.jstock.engine.Stock$Industry">
+    <entry>
+      <org.yccheok.jstock.engine.Stock_-Industry>Unknown</org.yccheok.jstock.engine.Stock_-Industry>
+      <list>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[2]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[3]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[4]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[5]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[6]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[7]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[8]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[9]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[10]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[11]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[12]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[13]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[14]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[15]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[16]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[17]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[18]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[19]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[20]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[21]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[22]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[23]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[24]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[25]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[26]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[27]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[28]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[29]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[30]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[31]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[32]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[33]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[34]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[35]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[36]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[37]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[38]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[39]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[40]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[41]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[42]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[43]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[44]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[45]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[46]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[47]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[48]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[49]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[50]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[51]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[52]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[53]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[54]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[55]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[56]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[57]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[58]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[59]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[60]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[61]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[62]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[63]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[64]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[65]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[66]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[67]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[68]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[69]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[70]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[71]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[72]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[73]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[74]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[75]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[76]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[77]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[78]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[79]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[80]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[81]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[82]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[83]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[84]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[85]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[86]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[87]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[88]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[89]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[90]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[91]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[92]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[93]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[94]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[95]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[96]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[97]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[98]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[99]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[100]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[101]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[102]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[103]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[104]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[105]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[106]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[107]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[108]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[109]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[110]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[111]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[112]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[113]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[114]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[115]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[116]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[117]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[118]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[119]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[120]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[121]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[122]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[123]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[124]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[125]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[126]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[127]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[128]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[129]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[130]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[131]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[132]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[133]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[134]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[135]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[136]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[137]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[138]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[139]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[140]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[141]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[142]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[143]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[144]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[145]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[146]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[147]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[148]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[149]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[150]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[151]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[152]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[153]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[154]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[155]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[156]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[157]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[158]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[159]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[160]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[161]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[162]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[163]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[164]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[165]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[166]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[167]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[168]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[169]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[170]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[171]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[172]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[173]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[174]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[175]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[176]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[177]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[178]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[179]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[180]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[181]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[182]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[183]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[184]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[185]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[186]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[187]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[188]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[189]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[190]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[191]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[192]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[193]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[194]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[195]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[196]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[197]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[198]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[199]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[200]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[201]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[202]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[203]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[204]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[205]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[206]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[207]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[208]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[209]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[210]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[211]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[212]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[213]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[214]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[215]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[216]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[217]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[218]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[219]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[220]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[221]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[222]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[223]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[224]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[225]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[226]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[227]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[228]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[229]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[230]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[231]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[232]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[233]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[234]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[235]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[236]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[237]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[238]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[239]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[240]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[241]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[242]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[243]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[244]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[245]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[246]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[247]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[248]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[249]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[250]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[251]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[252]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[253]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[254]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[255]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[256]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[257]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[258]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[259]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[260]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[261]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[262]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[263]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[264]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[265]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[266]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[267]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[268]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[269]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[270]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[271]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[272]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[273]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[274]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[275]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[276]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[277]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[278]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[279]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[280]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[281]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[282]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[283]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[284]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[285]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[286]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[287]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[288]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[289]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[290]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[291]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[292]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[293]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[294]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[295]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[296]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[297]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[298]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[299]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[300]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[301]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[302]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[303]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[304]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[305]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[306]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[307]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[308]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[309]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[310]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[311]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[312]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[313]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[314]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[315]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[316]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[317]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[318]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[319]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[320]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[321]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[322]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[323]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[324]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[325]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[326]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[327]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[328]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[329]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[330]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[331]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[332]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[333]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[334]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[335]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[336]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[337]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[338]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[339]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[340]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[341]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[342]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[343]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[344]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[345]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[346]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[347]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[348]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[349]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[350]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[351]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[352]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[353]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[354]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[355]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[356]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[357]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[358]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[359]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[360]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[361]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[362]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[363]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[364]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[365]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[366]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[367]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[368]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[369]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[370]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[371]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[372]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[373]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[374]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[375]"/>
+      </list>
+    </entry>
+  </industryToStockInfos>
+  <boardToStockInfos class="enum-map" enum-type="org.yccheok.jstock.engine.Stock$Board">
+    <entry>
+      <org.yccheok.jstock.engine.Stock_-Board>Milan</org.yccheok.jstock.engine.Stock_-Board>
+      <list>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[2]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[3]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[4]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[5]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[6]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[7]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[8]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[9]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[10]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[11]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[12]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[13]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[14]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[15]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[16]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[17]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[18]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[19]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[20]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[21]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[22]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[23]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[24]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[25]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[26]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[27]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[28]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[29]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[30]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[31]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[32]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[33]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[34]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[35]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[36]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[37]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[38]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[39]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[40]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[41]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[42]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[43]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[44]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[45]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[46]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[47]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[48]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[49]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[50]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[51]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[52]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[53]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[54]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[55]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[56]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[57]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[58]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[59]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[60]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[61]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[62]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[63]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[64]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[65]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[66]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[67]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[68]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[69]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[70]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[71]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[72]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[73]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[74]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[75]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[76]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[77]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[78]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[79]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[80]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[81]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[82]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[83]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[84]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[85]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[86]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[87]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[88]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[89]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[90]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[91]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[92]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[93]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[94]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[95]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[96]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[97]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[98]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[99]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[100]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[101]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[102]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[103]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[104]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[105]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[106]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[107]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[108]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[109]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[110]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[111]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[112]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[113]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[114]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[115]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[116]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[117]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[118]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[119]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[120]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[121]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[122]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[123]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[124]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[125]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[126]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[127]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[128]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[129]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[130]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[131]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[132]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[133]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[134]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[135]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[136]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[137]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[138]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[139]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[140]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[141]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[142]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[143]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[144]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[145]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[146]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[147]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[148]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[149]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[150]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[151]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[152]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[153]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[154]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[155]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[156]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[157]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[158]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[159]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[160]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[161]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[162]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[163]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[164]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[165]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[166]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[167]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[168]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[169]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[170]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[171]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[172]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[173]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[174]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[175]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[176]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[177]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[178]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[179]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[180]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[181]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[182]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[183]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[184]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[185]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[186]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[187]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[188]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[189]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[190]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[191]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[192]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[193]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[194]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[195]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[196]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[197]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[198]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[199]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[200]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[201]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[202]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[203]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[204]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[205]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[206]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[207]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[208]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[209]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[210]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[211]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[212]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[213]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[214]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[215]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[216]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[217]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[218]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[219]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[220]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[221]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[222]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[223]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[224]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[225]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[226]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[227]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[228]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[229]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[230]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[231]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[232]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[233]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[234]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[235]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[236]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[237]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[238]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[239]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[240]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[241]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[242]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[243]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[244]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[245]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[246]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[247]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[248]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[249]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[250]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[251]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[252]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[253]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[254]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[255]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[256]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[257]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[258]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[259]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[260]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[261]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[262]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[263]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[264]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[265]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[266]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[267]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[268]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[269]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[270]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[271]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[272]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[273]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[274]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[275]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[276]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[277]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[278]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[279]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[280]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[281]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[282]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[283]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[284]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[285]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[286]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[287]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[288]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[289]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[290]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[291]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[292]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[293]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[294]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[295]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[296]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[297]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[298]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[299]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[300]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[301]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[302]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[303]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[304]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[305]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[306]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[307]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[308]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[309]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[310]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[311]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[312]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[313]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[314]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[315]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[316]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[317]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[318]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[319]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[320]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[321]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[322]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[323]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[324]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[325]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[326]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[327]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[328]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[329]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[330]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[331]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[332]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[333]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[334]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[335]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[336]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[337]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[338]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[339]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[340]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[341]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[342]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[343]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[344]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[345]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[346]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[347]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[348]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[349]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[350]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[351]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[352]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[353]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[354]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[355]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[356]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[357]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[358]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[359]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[360]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[361]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[362]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[363]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[364]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[365]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[366]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[367]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[368]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[369]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[370]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[371]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[372]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[373]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[374]"/>
+        <org.yccheok.jstock.engine.StockInfo reference="../../../../stockInfos/org.yccheok.jstock.engine.StockInfo[375]"/>
+      </list>
+    </entry>
+  </boardToStockInfos>
+</org.yccheok.jstock.engine.StockInfoDatabase>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="82.5" last-seen="1477789565"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="4.5" last-seen="1477759276"/>
+    <application id="firefox.desktop" open-window-count="2" score="497.5" last-seen="1477813148"/>
+    <application id="nautilus.desktop" open-window-count="0" score="0.5" last-seen="1477390871"/>
+    <application id="file-roller.desktop" open-window-count="0" score="1" last-seen="1477389997"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="3" score="66" last-seen="1477799581"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="3532" last-seen="1477759350"/>
+    <application id="gnome-terminal.desktop" open-window-count="5" score="15132.5" last-seen="1477819367"/>
+    <application id="gnome-system-monitor.desktop" open-window-count="0" score="0.5" last-seen="1477756579"/>
+  </context>
+</application-state>
